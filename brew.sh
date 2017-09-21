@@ -102,5 +102,7 @@ brew cask install beyond-compare
 brew cask install bettertouchtool
 brew cask install shimo
 
+brew install tfenv
+
 # Remove outdated versions from the cellar.
 brew cleanup
