@@ -99,6 +99,8 @@ brew cask install franz
 brew cask install iterm2
 brew cask install webstorm
 brew cask install beyond-compare
+brew cask install bettertouchtool
+brew cask install shimo
 
 # Remove outdated versions from the cellar.
 brew cleanup
