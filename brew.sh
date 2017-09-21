@@ -93,5 +93,11 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+brew tap caskroom/cask
+brew cask install google-chrome
+brew cask install franz
+brew cask install iterm2
+brew cask install webstorm
+
 # Remove outdated versions from the cellar.
 brew cleanup
