@@ -98,6 +98,7 @@ brew cask install google-chrome
 brew cask install franz
 brew cask install iterm2
 brew cask install webstorm
+brew cask install beyond-compare
 
 # Remove outdated versions from the cellar.
 brew cleanup
