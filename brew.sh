@@ -94,13 +94,18 @@ brew install vbindiff
 brew install zopfli
 
 brew tap caskroom/cask
-brew cask install google-chrome
-brew cask install franz
-brew cask install iterm2
-brew cask install webstorm
-brew cask install beyond-compare
-brew cask install bettertouchtool
-brew cask install shimo
+brew cask install --appdir="/Applications" google-chrome
+brew cask install --appdir="/Applications" franz
+brew cask install --appdir="/Applications" iterm2
+brew cask install --appdir="/Applications" webstorm
+brew cask install --appdir="/Applications" beyond-compare
+brew cask install --appdir="/Applications" bettertouchtool
+brew cask install --appdir="/Applications" shimo
+brew cask install --appdir="/Applications" virtualbox
+
+brew cask install --appdir="/Applications" firefox
+brew cask install --appdir="/Applications" skype
+brew cask install --appdir="/Applications" spotify
 
 brew install tfenv
 
