@@ -110,6 +110,7 @@ brew cask install --appdir="/Applications" spotify
 
 brew install zsh
 brew install tfenv
+brew install yarn --without-node
 
 # Remove outdated versions from the cellar.
 brew cleanup
