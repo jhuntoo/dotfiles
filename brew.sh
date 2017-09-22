@@ -108,6 +108,7 @@ brew cask install --appdir="/Applications" firefox
 brew cask install --appdir="/Applications" skype
 brew cask install --appdir="/Applications" spotify
 
+brew install zsh
 brew install tfenv
 
 # Remove outdated versions from the cellar.
