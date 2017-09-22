@@ -98,6 +98,7 @@ brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" franz
 brew cask install --appdir="/Applications" iterm2
 brew cask install --appdir="/Applications" webstorm
+brew cask install --appdir="/Applications" intellij-idea-ce
 brew cask install --appdir="/Applications" beyond-compare
 brew cask install --appdir="/Applications" bettertouchtool
 brew cask install --appdir="/Applications" shimo
